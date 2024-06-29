@@ -1,0 +1,9 @@
+
+.img {
+    overflow: hidden;
+    transition: all 0.6s;
+  }
+  
+  .img:hover {
+    transform: scale(1.2);
+  }
